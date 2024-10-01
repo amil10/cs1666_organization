@@ -1,12 +1,24 @@
 # Magagment week end report
-manager_lastname: ""
-week: 1
-commit: ""
+manager_lastname: "Amilcar"
+week: 2
+commit: "Andrew Amilcar's Manager Week 2 Report"
 # Team member evalution
 team_members:
-  STUDENT1_LAST_NAME:
+  STUDENT1_LAST_NAME: "Plazek"
     score: 0
-    desc: ""
-  STUDENT2_LAST_NAME:
+    desc: "Basic player movement in dungeons with integrated sprite animation."
+  STUDENT2_LAST_NAME: "Chen"
     score: 0
-    desc: ""
+    desc: "Debug worlds for island and overworld thats 3000 pixels by 3000 pixels. Subject to change."
+  STUDENT3_LAST_NAME: "Zarroli"
+    score: 0
+    desc: "Implemented of a static bat enemy with a melee attack."
+STUDENT4_LAST_NAME: "Amilcar"
+    score: 0
+    desc: "Implemented of player attack melee function."
+STUDENT5_LAST_NAME: "Sullivan"
+    score: 0
+    desc: "Implemented boat movement mechanics with animated sprite."
+STUDENT6_LAST_NAME: "Zervos"
+    score: 0
+    desc: "Implemented camera that follows the player."
