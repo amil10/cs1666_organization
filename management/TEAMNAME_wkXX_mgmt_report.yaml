@@ -9,10 +9,10 @@ team_members:
     desc: "Basic player movement in dungeons with integrated sprite animation."
   STUDENT2_LAST_NAME: "Chen"
     score: 0
-    desc: "Debug worlds for island and overworld thats 3000 pixels by 3000 pixels. Subject to change."
+    desc: "Debug worlds for island and overworld thats 3000 pixels by 3000 pixels."
   STUDENT3_LAST_NAME: "Zarroli"
     score: 0
-    desc: "Implemented of a static bat enemy with a melee attack."
+    desc: "Implemented of a static bat enemy with a projectile attack."
 STUDENT4_LAST_NAME: "Amilcar"
     score: 0
     desc: "Implemented of player attack melee function."
