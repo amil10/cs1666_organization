@@ -15,7 +15,7 @@ team_members:
     desc: "Implemented of a static bat enemy with a projectile attack."
 STUDENT4_LAST_NAME: "Amilcar"
     score: 0
-    desc: "Implemented of player attack melee function."
+    desc: "Implemented a player attack melee function."
 STUDENT5_LAST_NAME: "Sullivan"
     score: 0
     desc: "Implemented boat movement mechanics with animated sprite."
